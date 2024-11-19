@@ -1,3 +1,3 @@
-# Welcome to HuskyNZ
+<center><img src="https://serv.husky.nz/logo/default.png" alt="HuskyNZ Logo" height="400" width="400"></center>
 
-This is the new home for HuskyNZ's github org
+I do some stuff for fun
